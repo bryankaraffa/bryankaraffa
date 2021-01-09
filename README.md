@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/bryankaraffa?template=classic&followup=1&isocalendar=1&languages=1&pagespeed=1&stars=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=full-year&stars.limit=3)
+![Metrics](https://metrics.lecoq.io/bryankaraffa?template=classic&followup=1&languages=1&stars=1&stars.limit=3)
