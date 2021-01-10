@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/bryankaraffa?template=classic&followup=1&languages=1&stars=1&stars.limit=3)
+![Metrics](https://github.com/bryankaraffa/bryankaraffa/blob/main/github-metrics.svg)
