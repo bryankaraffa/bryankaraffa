@@ -24,7 +24,7 @@ jobs:
           # https://github.com/lowlighter/metrics#%EF%B8%8F-follow-up
           plugin_followup: yes
           # https://github.com/lowlighter/metrics#-topics
-          plugin_topics: yes
+          plugin_topics: no
           plugin_topics_sort: stars
           plugin_topics_limit: 15
           # https://github.com/lowlighter/metrics#-lines
