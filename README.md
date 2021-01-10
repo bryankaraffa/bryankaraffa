@@ -1,1 +1,1 @@
-![Metrics](https://github.com/bryankaraffa/bryankaraffa/blob/main/github-metrics.svg)
+![Metrics](https://github.com/bryankaraffa/bryankaraffa/blob/metrics/github-metrics.svg)
