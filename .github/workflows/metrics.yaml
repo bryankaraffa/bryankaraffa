@@ -18,11 +18,11 @@ jobs:
           # Timezone
           config_timezone: US/Pacific
           # https://github.com/lowlighter/metrics#%EF%B8%8F-languages
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
           # https://github.com/lowlighter/metrics#%EF%B8%8F-follow-up
-          plugin_followup: yes
+          plugin_followup: no
           # https://github.com/lowlighter/metrics#-topics
           plugin_topics: no
           plugin_topics_sort: stars
