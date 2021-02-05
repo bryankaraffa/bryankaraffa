@@ -30,7 +30,7 @@ jobs:
           # https://github.com/lowlighter/metrics#-lines
           plugin_lines: yes
           # https://github.com/lowlighter/metrics#-traffic
-          plugin_traffic: yes
+          plugin_traffic: no # Disabled for now due to issue accessing some repos in external orgs https://github.com/bryankaraffa/bryankaraffa/runs/1842431424
           # https://github.com/lowlighter/metrics#-habits
           plugin_habits: yes
           plugin_habits_from: 200
