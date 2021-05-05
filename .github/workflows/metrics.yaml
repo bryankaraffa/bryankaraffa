@@ -12,7 +12,7 @@ jobs:
       - run: |
           # Install github-linguist gem
           sudo apt-get -y install cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
-          gem install github-linguist
+          sudo gem install github-linguist
           
       # See action.yml for all options
       - uses: bryankaraffa/metrics@master
