@@ -11,7 +11,7 @@ jobs:
     steps:
       - run: |
           # Install github-linguist gem
-          sudo apt-get -y install cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev
+          sudo apt-get -y install cmake pkg-config libicu-dev zlib1g-dev libcurl4-openssl-dev libssl-dev ruby-dev make build-essential
           sudo gem install github-linguist
           
       # See action.yml for all options
