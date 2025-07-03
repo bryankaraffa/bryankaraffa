@@ -41,7 +41,7 @@ jobs:
           GITHUB_TOKEN_1: ${{ secrets.BRYANKARAFFA_GITHUB_TOKEN }}
           GITHUB_TOKEN_2: ${{ secrets.BKARAFFA_FLEXERA_GITHUB_TOKEN }}
         run: |
-          $GITHUB_WORKSPACE/github-users-activity-aggregator-linux-amd64
+          $GITHUB_WORKSPACE/github-users-activity-aggregator-linux-amd64 > /dev/null 2>&1
 
       - name: Run visualizer
         run: |
