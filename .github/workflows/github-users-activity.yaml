@@ -1,10 +1,9 @@
 name: Update GitHub Users Activity
 on:
   schedule:
-    cron: 
-      - "0 9 * * *" # Daily at 9AM UTC ("night time" in US/Pacific)
+    - cron: "0 9 * * *" # Daily at 9AM UTC ("night time" in US/Pacific)
   push: 
-    branches: ["main","master"]
+    branches: [ "main", "master" ]
   workflow_dispatch:
 
 jobs:
